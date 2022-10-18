@@ -75,7 +75,7 @@ img-overlay img {
   justify-content: center;
 }
 
-.container {
+.containerNFT {
   display: flex;
   justify-content: space-between;
   font-weight: 400;
